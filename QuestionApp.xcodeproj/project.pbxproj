@@ -11,6 +11,10 @@
 		BD86ED8D2C2B068D00C5054B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD86ED8C2C2B068D00C5054B /* ContentView.swift */; };
 		BD86ED8F2C2B069A00C5054B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD86ED8E2C2B069A00C5054B /* Assets.xcassets */; };
 		BD86ED922C2B069A00C5054B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD86ED912C2B069A00C5054B /* Preview Assets.xcassets */; };
+		BD86ED992C2B07AA00C5054B /* Question1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD86ED982C2B07AA00C5054B /* Question1.swift */; };
+		BD86ED9B2C2B0D6E00C5054B /* Question2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD86ED9A2C2B0D6E00C5054B /* Question2.swift */; };
+		BD86EDA92C2B7A8600C5054B /* Question3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD86EDA82C2B7A8600C5054B /* Question3.swift */; };
+		BD86EDAB2C2B7C7800C5054B /* Question4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD86EDAA2C2B7C7800C5054B /* Question4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		BD86ED8C2C2B068D00C5054B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD86ED8E2C2B069A00C5054B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD86ED912C2B069A00C5054B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD86ED982C2B07AA00C5054B /* Question1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question1.swift; sourceTree = "<group>"; };
+		BD86ED9A2C2B0D6E00C5054B /* Question2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question2.swift; sourceTree = "<group>"; };
+		BD86EDA82C2B7A8600C5054B /* Question3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question3.swift; sourceTree = "<group>"; };
+		BD86EDAA2C2B7C7800C5054B /* Question4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				BD86ED8A2C2B068D00C5054B /* QuestionAppApp.swift */,
 				BD86ED8C2C2B068D00C5054B /* ContentView.swift */,
+				BD86ED982C2B07AA00C5054B /* Question1.swift */,
+				BD86ED9A2C2B0D6E00C5054B /* Question2.swift */,
+				BD86EDA82C2B7A8600C5054B /* Question3.swift */,
+				BD86EDAA2C2B7C7800C5054B /* Question4.swift */,
 				BD86ED8E2C2B069A00C5054B /* Assets.xcassets */,
 				BD86ED902C2B069A00C5054B /* Preview Content */,
 			);
@@ -137,7 +149,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD86ED9B2C2B0D6E00C5054B /* Question2.swift in Sources */,
 				BD86ED8D2C2B068D00C5054B /* ContentView.swift in Sources */,
+				BD86EDAB2C2B7C7800C5054B /* Question4.swift in Sources */,
+				BD86EDA92C2B7A8600C5054B /* Question3.swift in Sources */,
+				BD86ED992C2B07AA00C5054B /* Question1.swift in Sources */,
 				BD86ED8B2C2B068D00C5054B /* QuestionAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
